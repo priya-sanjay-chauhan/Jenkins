@@ -1,3 +1,4 @@
+package src.main.java;
 // public class Demo{
 //    public static void main(String[] args) {
 //       System.out.println("Hello Jenkins");
@@ -21,8 +22,8 @@ class Demo {
 
         System.out.println("Program started");
 
-        int a = 10;
-        int b = 7;
+        int a = 50;
+        int b = 91;
 
         checkEvenOdd(a);
         checkEvenOdd(b);
