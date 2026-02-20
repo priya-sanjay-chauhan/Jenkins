@@ -22,8 +22,8 @@ class Demo {
 
         System.out.println("Program started");
 
-        int a = 50;
-        int b = 91;
+        int a = 80;
+        int b = 13;
 
         checkEvenOdd(a);
         checkEvenOdd(b);
